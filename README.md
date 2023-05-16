@@ -12,3 +12,6 @@ Or from older versions:
 
 To test:
 `curl localhost:9999`
+
+Stop:
+`docker compose down`
